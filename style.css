@@ -20,7 +20,7 @@ body {
 
 .items {
     padding: 4rem 2.7rem;
-    
+
 }
 
 h1 {
@@ -76,4 +76,10 @@ p {
 
 .btn:hover {
     background-color: lightgray;
+}
+
+@media (max-width: 1300px) {
+    .container {
+        flex-direction: row;
+    }
 }
