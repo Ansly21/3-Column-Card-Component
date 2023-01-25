@@ -6,6 +6,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,11 +22,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+### Screenshot
+![](/design/completed_design.png)
 
 ### Links
 
-- Solution URL: (https://github.com/Ansly21/3-Column-Card-Component)
-- Live Site URL: (https://3column-component-card.netlify.app/)
+- Solution URL: https://github.com/Ansly21/3-Column-Card-Component
+- Live Site URL: https://3column-component-card.netlify.app/
 
 ## My process
 
