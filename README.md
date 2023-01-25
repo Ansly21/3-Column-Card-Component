@@ -40,7 +40,7 @@ Users should be able to:
 - Desktop-first workflow
 
 ## Author
-- Frontend Mentor Profile (https://www.frontendmentor.io/profile/Median21)
+- Frontend Mentor - [@Median21](https://www.frontendmentor.io/profile/Median21)
 
 ## Duration
 
